@@ -10,15 +10,11 @@
 - HTML, CSS
 - VSC, github
 
-## Live Demo (if available)
 
-[Live Demo Link](https://www.youtube.com/watch?v=UTga0ARWu2g&t=252s)
+### Setup
 
-
-## Getting Started
-
-No  setup required
-
+- To clone this Repo run the this command on your terminal:
+git clone git@github.com:aliakhraisha/Hello-Microverse.git
 
 ## Authors
 
